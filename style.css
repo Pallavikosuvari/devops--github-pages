@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; margin: 0; background: #f4f7fb; color: #222; }
+header { background: #1f3a5f; color: #fff; text-align: center; padding: 40px 16px; }
+header p { opacity: .85; }
+main { max-width: 700px; margin: 24px auto; padding: 0 16px; }
+.card { background: #fff; padding: 16px 20px; margin-bottom: 16px; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,.1); }
+h2 { color: #2e6fba; }
+a { color: #2e6fba; }
+footer { text-align: center; padding: 20px; color: #777; }
