@@ -4,7 +4,7 @@ Live site: https://pallavikosuvari.github.io/devops--github-pages/
 
 Created index.html and style.css, pushed them to GitHub, and enabled GitHub Pages (Settings > Pages, branch main, root folder).
 
-## My Page is Live at shown link
+## My your site live at is showing in my gitrepo
 
 <img width="1" height="7" alt="your site is live at" src="https://github.com/user-attachments/assets/0d7cf49c-7dd2-4629-8671-38d9c034d4cb" />
 
