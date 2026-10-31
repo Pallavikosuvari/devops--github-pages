@@ -1,1 +1,1 @@
-# devops-task-6-github-pages
+# devops-github-pages
